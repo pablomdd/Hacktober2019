@@ -129,7 +129,7 @@ Si no eres desarrollador pero de igual manera gustas contribuir en esta [LISTA D
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ 
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ 
 - [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ 
-- [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
+- [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ 
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ 
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ 
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ 
@@ -139,9 +139,9 @@ Si no eres desarrollador pero de igual manera gustas contribuir en esta [LISTA D
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ 
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ 
-- [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
+- [Goby](https://github.com/nskins/goby) _(label: beginner)_
 - [Hanami](https://github.com/hanami/hanami/labels/easy) _(label: easy)_ 
-- [Operation Code](https://github.com/OperationCode/operationcode_backend/labels/good%20first%20issue) _(label: good first issue)_ <br>An open source community dedicated to getting military veterans coding.
+- [Operation Code](https://github.com/OperationCode/operationcode_backend/labels/good%20first%20issue) _(label: good first issue)_ 
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ 
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ 
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ 
@@ -159,7 +159,7 @@ Si no eres desarrollador pero de igual manera gustas contribuir en esta [LISTA D
 - [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ 
 ## Scala
 
-- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> 
+- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ 
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ 
 ## TypeScript
 
