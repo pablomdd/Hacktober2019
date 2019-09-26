@@ -22,7 +22,8 @@ Si no eres desarrollador pero de igual manera gustas contribuir en esta [LISTA D
 
 ## Facebook OpenSource
 - [Pagina oficial](https://opensource.facebook.com/) _(label: exp/beginner/Jump-In/good first issue)_ 
-## React OpenSource 
+
+## React.js
 - [Pagina oficial](https://github.com/facebook/create-react-app/issues?q=%23first+label%3A%22good+first+issue%22) _(label: good first issue)_ 
 
 ## .NET
